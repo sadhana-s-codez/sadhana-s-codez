@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="At a glance: 9.84 CGPA, 1,050+ problems solved, 4 data pipelines, SIH 2026 internal round cleared">
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
- 
+     
+    <g>
+      <rect x="257" y="1" width="228" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
+      <text x="371" y="60" font-size="38" font-weight="800" fill="#FFFFFF">5+</text>
+      <text x="371" y="90" font-size="14" fill="#9CCBF2">Pull Requests Merged</text>
+    </g>
     <g>
       <rect x="257" y="1" width="228" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
       <text x="371" y="60" font-size="38" font-weight="800" fill="#FFFFFF">1,050+</text>
