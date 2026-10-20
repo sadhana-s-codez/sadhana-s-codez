@@ -4,10 +4,6 @@
 
 <img src="assets/glance.svg" alt="9.84 CGPA, 1,050+ coding problems solved, 4 Python data pipelines built, SIH 2026 internal round cleared" width="100%"/>
 
-## About
-
-Second-year B.Tech IT student at **St. Joseph's College of Engineering, Chennai**, focused on data engineering and analytics. I interned at **UnifyCX** as a Data Engineer, building Python pipelines that pull data from REST APIs, Google Drive, ZIP archives and websites, clean it with Pandas and report it in Power BI. Finalist at **KPRIET Hackathon 3.0** and **NSIT Hackathon 4.0**.
-
 ## How I Work
 
 <img src="assets/pipeline.svg" alt="Workflow: Extract, Clean, Structure, Visualize" width="100%"/>
@@ -74,7 +70,7 @@ Second-year B.Tech IT student at **St. Joseph's College of Engineering, Chennai*
     </td>
     <td width="33%" valign="top">
       <h4>BidShield</h4>
-      <sub>AI-powered platform that automates compliance checks on bid documents and presents verification outcomes for procurement workflows. Smart India Hackathon 2026, internal round cleared.</sub>
+      <sub>AI-powered platform that automates compliance checks on bid documents and presents verification outcomes for procurement workflows.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/AI-1F3A5F?style=flat-square" alt="AI"/>
@@ -98,8 +94,7 @@ Also built: a **Books Analytics** dashboard (~1,000 scraped listings, Power BI w
 
 <p>
   <a href="mailto:sadhana8530@gmail.com"><img src="https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sadhana-s-profile"><img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://github.com/sadhana-s-codez"><img src="https://img.shields.io/badge/GitHub-1F3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><i>Open to internships and collaborations. Always learning something new.</i></p>
+<p align="center"><i>Open to collaborations. Always learning something new.</i></p>
