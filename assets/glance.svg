@@ -13,8 +13,8 @@
     </g>
     <g>
       <rect x="769" y="1" width="230" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
-      <text x="884" y="58" font-size="32" font-weight="800" fill="#FFFFFF">Active particaipations</text>
-      <text x="884" y="90" font-size="14" fill="#9CCBF2">In Hackathons</text>
+      <text x="884" y="58" font-size="32" font-weight="800" fill="#FFFFFF">Active</text>
+      <text x="884" y="90" font-size="14" fill="#9CCBF2">Participations In Hackathons</text>
     </g>
   </g>
 </svg>
