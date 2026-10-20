@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="At a glance: 9.84 CGPA, 1,050+ problems solved, 4 data pipelines, SIH 2026 internal round cleared">
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <g>
-      <rect x="1" y="1" width="228" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
-      <text x="115" y="60" font-size="38" font-weight="800" fill="#FFFFFF">9.84</text>
-      <text x="115" y="90" font-size="14" fill="#9CCBF2">CGPA · B.Tech IT</text>
-    </g>
+ 
     <g>
       <rect x="257" y="1" width="228" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
       <text x="371" y="60" font-size="38" font-weight="800" fill="#FFFFFF">1,050+</text>
@@ -17,8 +13,8 @@
     </g>
     <g>
       <rect x="769" y="1" width="230" height="118" rx="14" fill="#0F2742" stroke="#2F5D8C"/>
-      <text x="884" y="58" font-size="32" font-weight="800" fill="#FFFFFF">SIH 2026</text>
-      <text x="884" y="90" font-size="14" fill="#9CCBF2">Internal round cleared</text>
+      <text x="884" y="58" font-size="32" font-weight="800" fill="#FFFFFF">Active particaipations</text>
+      <text x="884" y="90" font-size="14" fill="#9CCBF2">In Hackathons</text>
     </g>
   </g>
 </svg>
