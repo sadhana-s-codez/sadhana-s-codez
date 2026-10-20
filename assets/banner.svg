@@ -34,7 +34,7 @@
     <text x="58" y="214" font-size="21" fill="#E8F1FA">messy data into clear dashboards.</text>
     <rect x="56" y="234" width="188" height="30" rx="15" fill="#2EA44F" fill-opacity="0.2" stroke="#3FB950" stroke-opacity="0.7"/>
     <circle cx="76" cy="249" r="5" fill="#3FB950"/>
-    <text x="90" y="254" font-size="14" fill="#D6F5DC">Open to internships</text>
+    <text x="90" y="254" font-size="14" fill="#D6F5DC">Open to Collaborations</text>
   </g>
 
   <!-- chart motif -->
