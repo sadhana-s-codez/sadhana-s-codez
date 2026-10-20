@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/glance.svg" alt="1,050+ coding problems solved, 4 Python data pipelines built,Active Participations in Hackathons" width="100%"/>
+
 
 ## How I Work
 
