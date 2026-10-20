@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/glance.svg" alt="9.84 CGPA, 1,050+ coding problems solved, 4 Python data pipelines built, SIH 2026 internal round cleared" width="100%"/>
+<img src="assets/glance.svg" alt="1,050+ coding problems solved, 4 Python data pipelines built" width="100%"/>
 
 ## How I Work
 
